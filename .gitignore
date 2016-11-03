@@ -3,6 +3,8 @@
 .idea/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
+.idea/*
+/.idea/*
 .idea/jsLibraryMappings.xml
 *.iws
 /build/
